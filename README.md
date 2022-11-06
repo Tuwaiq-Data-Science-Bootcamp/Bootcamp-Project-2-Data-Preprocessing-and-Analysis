@@ -24,18 +24,22 @@ Our dataset is talking about a famous Super store that have three main categorie
 
 
 # Describe the final ten insights:
+- What are the best selling products?
 - The best selling products.. top 10
 
 ![alt text](img/top10.png)
 
+- What are the most cities demand?
 - The most cities demand 
 
 ![alt text](img/map.png)
 
+- What is the most customer segment demand?
 - The most Customer Segment demand
 
 ![alt text](img/segment.png)
 
+- What is the most Preferred Ship Mode?
 - Preferred Ship Mode
 
 ![alt text](img/shipmethod.png)
@@ -52,14 +56,17 @@ Our dataset is talking about a famous Super store that have three main categorie
 
 ![alt text](img/orders.png)
 
+- What are the products that have a high shipping cost?
 - The products that have a high shipping cost
 
 ![alt text](img/prodcost.png)
 
+- Define number of product category according to the region
 - Number of product category according to the region
 
 ![alt text](img/region.png)
 
+- What is the profit from sales?
 - Total Profit and Sales per Sub-Category
 
 ![alt text](img/psales.png)
