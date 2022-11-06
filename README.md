@@ -1,33 +1,36 @@
-# Bootcamp-Project-2-Data-Preprocessing-and-Analysis
+# Team members:
+- Rawabe Ebrahim
+- Khalid alruwidhan
+- Faisal Alqahtani
 
+# Introduction (problem, objectives)
+Our dataset is talking about a famous Super store that have three main categories witch are: Office Supplies, Technology and Furniture. The store have an external orders from different sectors, so..
+The problem is: they want to see the business is successful or not and they want to add an expansion plan to increase sales.
 
-### Based on what you’ve learned until now, use numpy, pandas, matplotlib and seaborn to create a project of your choosing. 
-### This project must at least satisfy the following minimum requirements:
-- Choose a public dataset that needs to clean and preprocess.
-- EDA
-  - Apply the essential EDA steps: head, shape, info, describe, missing values
-  - Apply the additional EDA steps based on your dataset needs.
-- Data Visualization
-  - Drive meaningful insights (at least 10 different charts, 5 of them are unique).
-  - Draw a subplot using the previous charts.
-  - Apply chart format include:
-    - Choose a specific style for your charts.
-    - Apply one color palette from your choice on all charts.
-    - Use title, x  and  y labels, font size, figure size, legends
+## The objectives:
+- What are the best selling products?
+- What are the most cities demand?
+- What is the most customer segment demand?
+- What is the most Preferred Ship Mode?
+- Describe the total sales and orders according to category and month.
+- What are the products that have a high shipping cost?
+- Define number of product category according to the region
+- What is the profit from sales?
+# Dataset Source:
+- kaggle
 
-- Use pandas profiling.
-- Report your final conclusion and findings in one page (readme markdown file).
-  - Team members.
-  - Introduction (problem, objectives)
-  - Dataset Overview and Source.
-  - Describe the final ten insights.
+# Describe the final ten insights:
+- The best selling products.. top 10
+![alt text](../top10.png)
 
-
-- The Final presentation will be on Sunday.
-- Due Date: Sun, 3 Nov, 12:00 pm
-
-#### Final Deliverables:
-- Notebook file(.ipynb).
-- Dataset file.
-- README.md file.
- 
+- The most cities demand 
+- The most Customer Segment demand
+- Preferred Ship Mode
+- Total sales based on category and Sub-Category
+- Total sales based on month and Region
+- Total orders based on month
+- The products that have a high shipping cost
+- Number of product category according to the region
+- Total Profit and Sales per Sub-Category
+- Total state dealing
+- Describes of discount
